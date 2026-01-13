@@ -1,4 +1,4 @@
-📧 Intelligent Email Spam Detection System Using Machine Learning
+📧 Text Classification for Email Spam Detection Using Supervised Machine Learning Techniques
 
 A Machine Learning–Based Text Classification Application
 
